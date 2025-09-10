@@ -1,0 +1,64 @@
+header{
+    background-color:rgba(0, 0, 0, 0.384);
+    padding:2%;
+}
+body{
+    background-image:url(fond\ page.jpg);
+    background-size:cover;
+}
+#titre{
+    margin-left:35%;
+    margin-top:-20px;
+    color: white;
+}
+#boxtext{
+    padding:2%;
+    background-color:rgba(0, 0, 0, 0.384);
+}
+#first{
+    margin-left:10%;
+    color:white;
+}
+.rf{
+    margin-left:10%;
+    color:white;
+}
+#logop{
+    border-radius:10px;
+}
+#boxtextp1{
+    padding:3%;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:10%;
+    display: incline-block;
+    border-radius: 10px;;
+    border:3px solid black;
+    background-color:rgba(0, 0, 0, 0.084)
+}
+#boxtextp2{
+    padding:3%;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:5%;
+    display: incline-block;
+    border-radius: 10px;;
+    border:3px solid black;
+    background-color:rgba(0, 0, 0, 0.084)
+}
+footer{
+    background-color:rgba(0, 0, 0, 0.384);
+    padding:1%;
+    position:relative;
+    margin-top:10%;
+    color: white;
+}
+.lien{
+    margin-left:25%;
+}
+a{
+    color: white;
+}
+ol{
+    margin-left:10%;
+}

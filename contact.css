@@ -1,0 +1,35 @@
+body{
+    background-image:url(fond\ page.jpg);
+    background-size: cover;
+}
+inpu,email{
+    background-color:whitesmoke;
+}
+#titre{
+    margin-left:25%;
+    margin-top:-3%;
+}
+#formu{
+    margin-left:25%;
+    margin-top:3%;
+    padding:3%;
+    border:3px solid black;
+    margin-right:45%;
+    border-radius:10px;
+}
+#boxtext{
+    padding:2%;
+    background-color:rgba(0, 0, 0, 0.384);
+}
+#first{
+    margin-left:10%;
+    color:white;
+}
+.rf{
+    margin-left:10%;
+    color:white
+}
+header{
+    background-color:rgba(0, 0, 0, 0.384);
+    padding:2%;
+}
